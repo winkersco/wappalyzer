@@ -27,7 +27,7 @@ optional arguments:
 
 ## Example
 ```bash
-python3 wappalyzer.py -t https://example.com output.json
+python3 wappalyzer.py -t https://example.com -o output.json
 ```
 
 ## Contributing
